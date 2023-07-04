@@ -1,4 +1,4 @@
--  Hi, I’m @Offensiveartificialintelligence
+-  Hi, we are @Offensiveartificialintelligence
 -  we are a team
 -  we are offensive AI
 
