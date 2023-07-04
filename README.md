@@ -1,6 +1,6 @@
 -  Hi, we are @Offensiveartificialintelligence
 -  we are a team
--  we are offensive AI
+-  we are the first offensive AI
 
 <!---
 Offensiveartificialintelligence/Offensiveartificialintelligence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
